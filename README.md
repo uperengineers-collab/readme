@@ -1,4 +1,4 @@
-## 🎉 ¡Bienvenido a **CONECTATE-YA WISP SOFTWARE 1.5**! 🚀
+## 🎉 ¡Bienvenido a **UPER WISP SOFTWARE 1.5**! 🚀
 
 ¡Gracias por confiar en **CONECTATE-YA WISP SOFTWARE**!  
 Estás utilizando la **versión 1.5** de nuestra plataforma. 🎯
