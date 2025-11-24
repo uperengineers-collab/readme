@@ -1,6 +1,6 @@
 ## 🎉 ¡Bienvenido a **UPER WISP SOFTWARE 1.5**! 🚀
 
-¡Gracias por confiar en **CONECTATE-YA WISP SOFTWARE**!  
+¡Gracias por confiar en **UPER WISP SOFTWARE**!  
 Estás utilizando la **versión 1.5** de nuestra plataforma. 🎯
 
 Con **CONECTATE-YA WISP SOFTWARE** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
