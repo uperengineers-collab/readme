@@ -75,7 +75,7 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 - 📱 **WhatsApp:** +51 993 296 137 
 - ✉️ **Correo:** uper.engineers@gmail.com
 
-**¡Ventas, soporte o mejoras!**
+**Velnet Pro: La nueva forma de administrar tu WISP**
 
 
 
