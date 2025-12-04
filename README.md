@@ -1,7 +1,7 @@
-## 🎉 ¡Bienvenido a **SOFTWARE 2.0**! 🚀
+## 🎉 ¡Bienvenido a **SOFTWARE 1.5**! 🚀
 
 ¡Gracias por confiar en **SOFTWARE**!  
-Estás utilizando la **versión 2.0** de nuestra plataforma. 🎯
+Estás utilizando la **versión 1.5** de nuestra plataforma. 🎯
 
 Con **SOFTWARE** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
 Todo lo que necesitas para empezar, en un solo lugar. 🔥
