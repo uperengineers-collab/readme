@@ -1,7 +1,7 @@
 ## 🎉 ¡Bienvenido a **VELNET PRO SOFTWARE 2.0**! 🚀
 
 ¡Gracias por confiar en **VELNET PRO SOFTWARE 2.0**!  
-Estás utilizando la **versión 1.5** de nuestra plataforma. 🎯
+Estás utilizando la **versión 2.0** de nuestra plataforma. 🎯
 
 Con **VELNET PRO SOFTWARE 2.0** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
 Todo lo que necesitas para empezar, en un solo lugar. 🔥
