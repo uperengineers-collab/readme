@@ -1,9 +1,9 @@
-## 🎉 ¡Bienvenido a **UPER WISP SOssssFTWARE 1.5**! 🚀
+## 🎉 ¡Bienvenido a **VELNET WISP SOFTWARE 2.0**! 🚀
 
-¡Gracias por confiar en **UPER WISP SOFTWARE**!  
-Estás utilizando la **versión 1.5** de nuestra plataforma. 🎯
+¡Gracias por confiar en **VELNET WISP SOFTWARE**!  
+Estás utilizando la **versión 2.0** de nuestra plataforma. 🎯
 
-Con **CONECTATE-YA WISP SOFTWARE** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
+Con **VELNET WISP SOFTWARE** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
 Todo lo que necesitas para empezar, en un solo lugar. 🔥
 
 ---
