@@ -1,9 +1,9 @@
-## 🎉 ¡Bienvenido a **SOFTWARE 1.5**! 🚀
+## 🎉 ¡Bienvenido a **VELNET PRO SOFTWARE 2.0**! 🚀
 
-¡Gracias por confiar en **SOFTWARE**!  
+¡Gracias por confiar en **VELNET PRO SOFTWARE 2.0**!  
 Estás utilizando la **versión 1.5** de nuestra plataforma. 🎯
 
-Con **SOFTWARE** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
+Con **VELNET PRO SOFTWARE 2.0** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
 Todo lo que necesitas para empezar, en un solo lugar. 🔥
 
 ---
@@ -26,17 +26,7 @@ Nuestro **Sistema de Administración de Clientes WISP e ISP** te permite gestion
 
 ## 🧪 TUTORIALES Y USO DEL SISTEMA
 
-Aprende a dominar tu sistema con nuestros tutoriales disponibles:
-
-### 🎬 VIDEOS DISPONIBLES
-
-1. ✅ **Introducción al sistema**  
-   📺 https://www.youtube.com/watch?v=dEtIk_XkIEA
-
-2. ⚙️ **Configuración inicial**  
-   📺 https://www.youtube.com/watch?v=VIDEO_ID_2
-
-(Se agregarán más vídeos en futuras versiones)
+(Se agregarán vídeos en futuras versiones, puedes consultarnos al equipo de soporte para brindarte una mayor atención)
 
 ---
 
@@ -64,7 +54,6 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 
 | Fecha       | Versión | Descripción                                                                 |
 
-| 2025-06-01  | 1.5.0   | Integración de videos tutoriales desde YouTube                             |
 | 2025-05-18  | 1.4.2   | Optimización del sistema de notificaciones por WhatsApp                    |
 | 2025-05-01  | 1.4.0   | Añadido módulo de mapa de red para visualizar cajas NAP y MUFAS            |
 | 2025-04-15  | 1.3.0   | Implementado el control de Simple Queue con conexión directa a MikroTik    |
@@ -75,16 +64,16 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 ## 🧑‍💻 CRÉDITOS Y DERECHOS DE AUTOR
 
 - 👨‍💻 **Proyecto:** Sistema de administración de clientes WISP e ISP  
-- 🛠️ **Desarrollador:** Walter Rengifo  
-- 🌐 **Web:** [https://wisppro.net](https://wisppro.net)  
-- 🔢 **Versión actual:** 1.5.0
+- 🛠️ **Desarrollador:** Equipo de soporte y desarrollo
+- 🌐 **Web:** 
+- 🔢 **Versión actual:** 2.0.0
 
 ---
 
 ## 📞 CONTACTOS DE ATENCIÓN
 
-- 📱 **WhatsApp:** +51 999 220 735  
-- ✉️ **Correo:** walterrengifo08@gmail.com  
+- 📱 **WhatsApp:** +51 993 296 137 
+- ✉️ **Correo:** uper.engineers@gmail.com
 
 **¡Ventas, soporte o mejoras!**
 
