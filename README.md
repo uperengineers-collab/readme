@@ -64,7 +64,7 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 ## 🧑‍💻 CRÉDITOS Y DERECHOS DE AUTOR
 
 - 👨‍💻 **Proyecto:** Sistema de administración de clientes WISP e ISP  
-- 🛠️ **Desarrollador:** Equipo de soporte y desarrollo
+- 🛠️ **Desarrollador:** Equipo de Desarollo y Soporte remoto
 - 🌐 **Web:** 
 - 🔢 **Versión actual:** 2.0.0
 
@@ -73,7 +73,7 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 ## 📞 CONTACTOS DE ATENCIÓN
 
 - 📱 **WhatsApp:** +51 993 296 137 
-- ✉️ **Correo:** uper.engineers@gmail.com
+- ✉️ **Correo:** uper.engineers@gmail.com / josuejimenez@uperperu.com
 
 **Velnet Pro: La nueva forma de administrar tu WISP**
 
